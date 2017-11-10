@@ -1,19 +1,34 @@
-## Welcome to GitHub Pages
+# Jay Borkar
 
-You can use the [editor on GitHub](https://github.com/jayborkar/jay-borkar.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Graduate Student at Rutgers University, specializing in Data Science. Big data and Machine Learning enthusiast. I write software, analyze large sets of data to extract knowledge. When I am not working, I travel around the world.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Connect with me on social media:
+
+[Linkedin](https://www.linkedin.com/in/jayborkar/)
+
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+[Facebook](https://www.facebook.com/jay.borkar.1)
+
+
+
+
+![Imae](/Users/jayborkar/Downloads/images-2.png)
+### Rutgers University
+At Rutgers, I am graduate student studying Information Technology with specialization in Data Science. 
+
 
 ```markdown
+
 Syntax highlighted code block
 
 # Header 1
 ## Header 2
 ### Header 3
+
 
 - Bulleted
 - List
@@ -23,15 +38,12 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image]()
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jayborkar/jay-borkar.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
