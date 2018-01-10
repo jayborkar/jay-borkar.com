@@ -9,14 +9,11 @@ Connect with me on social media:
 [Linkedin](https://www.linkedin.com/in/jayborkar/)
 
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-[Facebook](https://www.facebook.com/jay.borkar.1)
 
 
 
+![rutgers](https://user-images.githubusercontent.com/17011130/34801143-fdc47662-f634-11e7-87d3-9921ad519ad7.png)
 
-![Imae](/Users/jayborkar/Downloads/images-2.png)
 ### Rutgers University
 At Rutgers, I am graduate student studying Information Technology with specialization in Data Science. 
 
