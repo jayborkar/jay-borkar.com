@@ -19,7 +19,7 @@ Connect with me on social media:
 
 <!-- icons with padding -->
 
-[1.1]: (https://user-images.githubusercontent.com/17011130/34802538-2412ef0e-f63c-11e7-8534-a25dfc85ebc7.png)(twitter icon with padding)
+[1.1]: (http://i.imgur.com/P3YfQoD.png)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
@@ -34,6 +34,7 @@ Connect with me on social media:
 [3]: https://github.com/jayborkar
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
 ![rutgers](https://user-images.githubusercontent.com/17011130/34801143-fdc47662-f634-11e7-87d3-9921ad519ad7.png)
 
 ### Rutgers University
