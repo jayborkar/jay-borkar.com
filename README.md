@@ -11,7 +11,9 @@ Connect with me on social media:
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
-
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+[![alt text][6.1]][6]
 
 
 <!-- links to social media icons -->
@@ -19,7 +21,7 @@ Connect with me on social media:
 
 <!-- icons with padding -->
 
-[1.1]: https://www.vectorico.com/download/Social-media/linkedin-icon.jpg (twitter icon with padding)
+[1.1]: http://tapsmart.wpengine.netdna-cdn.com/wp-content/uploads/2015/04/linkedin.jpg (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
