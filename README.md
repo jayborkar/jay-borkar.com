@@ -19,7 +19,7 @@ Connect with me on social media:
 
 <!-- icons with padding -->
 
-[1.1]: https://imgur.com/gallery/WLO1O (twitter icon with padding)
+[1.1]: (https://user-images.githubusercontent.com/17011130/34802538-2412ef0e-f63c-11e7-8534-a25dfc85ebc7.png)(twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
