@@ -41,7 +41,7 @@ Connect with me on social media:
 
 ### Rutgers University
 At Rutgers, I am graduate student studying Information Technology with specialization in Data Science. 
-```markdown
+
 
 
 
