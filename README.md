@@ -19,8 +19,8 @@ Connect with me on social media:
 
 <!-- icons with padding -->
 
-[1.1]: https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-24.png (Linkedin)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[1.1]: https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-32.png (Linkedin)
+[2.1]: https://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_circle_color-32.png (facebook)
 [3.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 
