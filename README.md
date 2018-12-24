@@ -1,6 +1,6 @@
 # Jay Borkar 
 
-Visit : https://jayborkar.github.io
+Visit : jayborkar.github.io
 
 Graduate Student at Rutgers University, specializing in Data Science. Big data and Machine Learning enthusiast. I write software, analyze large sets of data to extract knowledge. When I am not working, I travel around the world.
 
